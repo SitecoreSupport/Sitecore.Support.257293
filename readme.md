@@ -1,5 +1,5 @@
 # Sitecore.Support.257293
-BoostUsersController returns &quot;http&quot; instead of &quot;https&quot;
+BoostUsersController corrected to return &quot;https&quot; instead of &quot;http&quot;
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.257293/blob/master/LICENSE).  
